@@ -29,6 +29,8 @@
   </i>
   </ul>
 <br>
+
+[Figma Prototype]:https://www.figma.com/proto/DAA1cVZ4reJnklQQWbOTuE/PalKalai-Prototype?page-id=0%3A1&node-id=1-97&viewport=279%2C350%2C0.43&scaling=min-zoom&starting-point-node-id=1%3A97
   
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40px"> Domain</h2>
 
